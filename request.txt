@@ -1,0 +1,2 @@
+# With the LBRY app/daemon running locally, you can use this in your Terminal
+curl --header "Content-Type: application/json" --data '{ "method": "resolve", "params": { "urls": "3d-all-stars-super-mario-64-episode-5#55d59c58cbfae92d4c09ae083f20fa2ac775ceec" }}' http://localhost:5279    
