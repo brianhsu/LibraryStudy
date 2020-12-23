@@ -1,0 +1,153 @@
+{
+  "3d-all-stars-super-mario-64-episode-5#55d59c58cbfae92d4c09ae083f20fa2ac775ceec": {
+    address: "bNuiqXPVkc8yCuV9BPAWYEEzSsJWjuAGMN",
+    amount: "0.01",
+    canonical_url: "lbry://@SicCooper#1/3d-all-stars-super-mario-64-episode-5#5",
+    claim_id: "55d59c58cbfae92d4c09ae083f20fa2ac775ceec",
+    claim_op: "create",
+    confirmations: 262,
+    height: 884323,
+    is_channel_signature_valid: true,
+    meta: {
+      activation_height: 884323,
+      creation_height: 884323,
+      creation_timestamp: 1608685914,
+      effective_amount: "4297.78999578",
+      expiration_height: 2986723,
+      is_controlling: true,
+      reposted: 0,
+      support_amount: "4297.77999578",
+      take_over_height: 884323,
+      trending_global: 0,
+      trending_group: 0,
+      trending_local: 0,
+      trending_mixed: 71.200927734375
+    },
+    name: "3d-all-stars-super-mario-64-episode-5",
+    normalized_name: "3d-all-stars-super-mario-64-episode-5",
+    nout: 0,
+    permanent_url: "lbry://3d-all-stars-super-mario-64-episode-5#55d59c58cbfae92d4c09ae083f20fa2ac775ceec",
+    short_url: "lbry://3d-all-stars-super-mario-64-episode-5#5",
+    signing_channel: {
+      address: "bNuiqXPVkc8yCuV9BPAWYEEzSsJWjuAGMN",
+      amount: "0.005",
+      canonical_url: "lbry://@SicCooper#1",
+      claim_id: "1bd8bf2d2037a1bdd9bfdb1c4f767996389bd0d3",
+      claim_op: "update",
+      confirmations: 17042,
+      has_signing_key: false,
+      height: 867543,
+      meta: {
+        activation_height: 862219,
+        claims_in_channel: 1031,
+        creation_height: 862219,
+        creation_timestamp: 1605165401,
+        effective_amount: "0.005",
+        expiration_height: 2964619,
+        is_controlling: true,
+        reposted: 0,
+        support_amount: "0.0",
+        take_over_height: 862219,
+        trending_global: 0,
+        trending_group: 0,
+        trending_local: 0,
+        trending_mixed: 0
+      },
+      name: "@SicCooper",
+      normalized_name: "@siccooper",
+      nout: 0,
+      permanent_url: "lbry://@SicCooper#1bd8bf2d2037a1bdd9bfdb1c4f767996389bd0d3",
+      short_url: "lbry://@SicCooper#1",
+      timestamp: 1606014380,
+      txid: "0fb26b8ea32a25a6d1ce49f09744668479cc21f66b19a30a6b55faa3283ae9be",
+      type: "claim",
+      value: {
+        cover: {
+          url: "https://thumbnails.lbry.com/banner-UCXAcgmC0KT0ruMfmmmuoygA"
+        },
+        description: "I am a retro gamer / collector who owns a video game store in Vancouver, Washington. I do daily vlogs of my life and the game store.",
+        public_key: "3056301006072a8648ce3d020106052b8104000a03420004db05727e5e36b29a9092bac6b2ec459eb75ce13591ca7b47716ff41f815d35f7a09b40e69e1d0bddd16370196cb5744d904ddb3e7e5c8abef42cf546a141c780",
+        public_key_id: "bXEVzscLYsUhTuLUVbr7iBFgFeYdqoADMq",
+        tags: [
+          "retro video games",
+          "daily vlogs",
+          "game store",
+          "nintendo",
+          "collecting"
+        ],
+        thumbnail: {
+          url: "https://thumbnails.lbry.com/UCXAcgmC0KT0ruMfmmmuoygA"
+        },
+        title: "SicCooper"
+      },
+      value_type: "channel"
+    },
+    timestamp: 1608685914,
+    txid: "38efd10bbd4b7a0529245e889743450bc307e204daec01b59a49b07a0ad9849e",
+    type: "claim",
+    value: {
+      description: "►Super Mario 64 Playlist: https://www.youtube.com/watch?v=Zcni17fE45s&list=PLUbrzxuy3cWNAau-WmwfB0MYjc49tb_0k&ab_channel=SicCooper\n\n►Double Jump Video Games Webstore: https://bit.ly/2YV1FhE\n\n►Double Jump Video Games Facebook: https://goo.gl/CmpDgm\n\n►Double Jump Video Games Instagram: https://goo.gl/ZAoTQW\n\n►Cooper's Instagram: https://goo.gl/yhmwQq\n\n►Abbey's  Instagram: https://bit.ly/2K1ZSyQ\n\n►Cooper's Facebook: https://goo.gl/wo1ggn\n\n►Watch on Odysee: https://odysee.com/@SicCooper:1\n...\nhttps://www.youtube.com/watch?v=YuTuhwy8Ui4",
+      license: "Copyrighted (contact publisher)",
+      release_time: "1608685216",
+      source: {
+        hash: "92f20f017287fe2248777cfccd4b0563d198e1268b02759d4744539018303b1966e71e44d75195ff45d188b9c9290417",
+        media_type: "video/mp4",
+        name: "3d-all-stars-super-mario-64.mp4",
+        sd_hash: "2b80e8715b8bcebe28f53a00b866f9563a4b19b457a256e85fe47b3d422c2dcba3e8d456d80ba3fd1502a1f44fcbdf23",
+        size: "191337610"
+      },
+      stream_type: "video",
+      tags: [
+        "economics",
+        "gaming",
+        "technology",
+        "amazon",
+        "atari",
+        "business",
+        "business management",
+        "business owner",
+        "collector",
+        "daily vlogs",
+        "double jump video games",
+        "ebay",
+        "game room",
+        "game store",
+        "gamecube",
+        "how to run a business",
+        "microsoft",
+        "n64",
+        "nes",
+        "nintendo",
+        "nintendo 64",
+        "pick ups",
+        "playstation",
+        "portland or",
+        "profit",
+        "retro video games",
+        "room tour",
+        "sales",
+        "sega",
+        "siccooper",
+        "small business",
+        "snes",
+        "sony",
+        "store",
+        "vancouver wa",
+        "video game collection",
+        "video games",
+        "wii",
+        "wii u"
+      ],
+      thumbnail: {
+        url: "https://thumbnails.lbry.com/YuTuhwy8Ui4"
+      },
+      title: "3D All-Stars Super Mario 64 Episode 5: Bowser in the Dark World | SicCooper",
+      video: {
+        duration: 437,
+        height: 1080,
+        width: 1920
+      }
+    },
+    value_type: "stream"
+  }
+}
